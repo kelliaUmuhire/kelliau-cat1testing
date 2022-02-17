@@ -5,7 +5,7 @@ Inside Client folder, there's codes for frontent. The folder testing-rct-smsh is
 ### Clone repo
 `git clone https://github.com/kelliaUmuhire/kelliau-cat1testing.git`
 
-After cloning the repo, create a separate folder and move the client forlder into it.
+After cloning the repo, create a separate folder and move the client folder into it.
 
 ### Run both frontend and backend
 `npm start`
